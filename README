@@ -27,3 +27,7 @@ Password:
 ::: Booking for Roger Philibert...
 ::: Booking status: True
 ::: Booked!
+
+## Docker 
+$ ~ docker build -t doctoshotgun .
+$ ~ ./doctoshotgun.sh CITY USERNAME [PASSWORD]
